@@ -1,7 +1,7 @@
 export const portfolioData = {
   personal: {
     name: "MD SAJIB",
-    img:"/my-photo.jpg",
+    img:"/assets/images/nature-img2.png", 
     initials: "MS",
     role: "Full Stack Web Developer",
     tagline: "Building beautiful, responsive web experiences",
@@ -12,7 +12,7 @@ export const portfolioData = {
     github: "https://github.com/sajibwebtpi",
     linkedin: "https://www.linkedin.com/in/md-bhuyan",
     availability: "Open to work",
-    resumeUrl: "/resume.pdf", // রেজুমে PDF ফাইলের path এখানে দিন
+    resumeUrl: "/MD_Sajib_Resume.pdf", // রেজুমে PDF ফাইলের path এখানে দিন
   },
 
   skills: [
@@ -26,7 +26,7 @@ export const portfolioData = {
     { name: "Git / GitHub", level: 78 },
   ],
 
-  tools: ["VS Code", "Figma", "npm", "Vite", "REST API", "MySQL", "Postman", "Axios"],
+  tools: ["VS Code", "Figma", "npm", "Vite", "REST API", "MySQL", "Postman", "Axios" ,"Xampp"],
 
   education: [
     {

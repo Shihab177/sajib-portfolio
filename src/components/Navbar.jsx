@@ -34,7 +34,6 @@ export default function Navbar({ activeSection }) {
           {portfolioData.personal.name.split(" ")[0]}
           <span className="text-blue-500">.</span>
         </button>
-
         <div className="hidden md:flex items-center gap-1">
           {navLinks.map((link) => (
             <button
